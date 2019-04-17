@@ -1,2 +1,3 @@
 # AdminPanelUI
-Windows Forms ile  Modern UI tasarımı 
+Windows Forms ile Örnek Modern UI tasarımı 
+
